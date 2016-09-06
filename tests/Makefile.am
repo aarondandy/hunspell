@@ -77,6 +77,7 @@ checksharps.test \
 checksharpsutf.test \
 germancompounding.test \
 germancompoundingold.test \
+hun_cover.test \
 i35725.test \
 i53643.test \
 i54633.test \
@@ -268,6 +269,11 @@ germancompoundingold.dic \
 germancompoundingold.good \
 germancompoundingold.test \
 germancompoundingold.wrong \
+hun_cover.aff \
+hun_cover.dic \
+hun_cover.good \
+hun_cover.test \
+hun_cover.wrong \
 needaffix2.aff \
 needaffix2.dic \
 needaffix2.good \
